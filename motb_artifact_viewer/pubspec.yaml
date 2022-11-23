@@ -1,0 +1,37 @@
+name: motb_artifact_viewer
+description: A new Flutter package project.
+publish_to: none
+version: 0.0.1
+homepage:
+
+environment:
+  sdk: '>=2.18.2 <3.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Open Layers
+  open_layers_viewer:
+    git:
+      url: 'https://github.com/powell-cord/flutter_open_layers'
+      path: 'open_layers_viewer/'
+
+  #Three JS
+  threeJS_Viewer:
+    git:
+      url: 'https://github.com/ColtonBristow/FlutterThreeJS'
+      path: 'threeJS_Viewer/'
+      
+  
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+
+flutter:
+
