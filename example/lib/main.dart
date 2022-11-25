@@ -17,6 +17,7 @@ class _ArtifactViewerAppState extends State<ArtifactViewerApp> {
   Artifact artifact = openLayersArtifact;
   ArtifactController? _controller;
   late String selectedUrl = artifact.modelUrls[0];
+
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
