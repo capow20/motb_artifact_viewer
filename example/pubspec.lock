@@ -113,8 +113,8 @@ packages:
     dependency: transitive
     description:
       path: open_layers_viewer
-      ref: HEAD
-      resolved-ref: a007d71cb9b1ad66cb3f9dc36052f6dc99c3262a
+      ref: "1a2f2fc"
+      resolved-ref: "1a2f2fc57c8fd1ec040fd5c4f32a2abe50f800f7"
       url: "https://github.com/powell-cord/flutter_open_layers"
     source: git
     version: "0.0.1"
@@ -183,7 +183,7 @@ packages:
     dependency: transitive
     description:
       path: threeJS_Viewer
-      ref: HEAD
+      ref: main
       resolved-ref: "2bd2673420b0b130539abae3e3accbe71854e671"
       url: "https://github.com/ColtonBristow/FlutterThreeJS"
     source: git
