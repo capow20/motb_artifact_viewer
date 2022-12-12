@@ -17,12 +17,14 @@ dependencies:
     git:
       url: 'https://github.com/powell-cord/flutter_open_layers'
       path: 'open_layers_viewer/'
+      ref: f5bd9df
 
   #Three JS
   threeJS_Viewer:
     git:
       url: 'https://github.com/ColtonBristow/FlutterThreeJS'
       path: 'threeJS_Viewer/'
+      ref: 2bd2673
       
   
 
