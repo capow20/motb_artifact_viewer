@@ -17,7 +17,7 @@ dependencies:
     git:
       url: 'https://github.com/powell-cord/flutter_open_layers'
       path: 'open_layers_viewer/'
-      ref: 77d0ecf
+      ref: 1c2effc
 
   #Three JS
   threeJS_Viewer:
