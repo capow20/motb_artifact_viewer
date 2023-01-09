@@ -15,7 +15,7 @@ dependencies:
   # Open Layers
   open_layers_viewer:
     git:
-      url: 'https://github.com/powell-cord/flutter_open_layers'
+      url: 'https://github.com/capow20/flutter_open_layers'
       path: 'open_layers_viewer/'
       ref: 1c2effc
 
